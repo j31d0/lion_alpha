@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652510938806",
+    "firebase_url": "https://alpha-hong2.firebaseio.com",
+    "project_id": "alpha-hong2",
+    "storage_bucket": "alpha-hong2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652510938806:android:73d2ba009f08510a",
+        "android_client_info": {
+          "package_name": "com.hong2.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652510938806-tjjg7siak33i75a7ilfnbmlmused3t21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hong2.alpha",
+            "certificate_hash": "8712a592dac59476507089be1932c9d002d39780"
+          }
+        },
+        {
+          "client_id": "652510938806-aai7is1k1o12ii4sn8kiu1fo67gca4gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmGUORXJUw7bWNEiChFF4rtScaOProm7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652510938806-aai7is1k1o12ii4sn8kiu1fo67gca4gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
